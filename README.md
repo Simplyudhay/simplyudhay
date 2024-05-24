@@ -1,6 +1,5 @@
-<div align="left">
+<div align="center">
 
-  <img src="https://github.com/simplyudhay.png" alt="Udhayakumar R." style="border-radius: 50%; width: 150px; height: 150px;">
 
   <h1 style="color: #3498DB;"><b>Udhayakumar R.</b></h1> 
 
