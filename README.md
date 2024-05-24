@@ -11,7 +11,7 @@
 
   </p> 
 
-</div>
+
 
 
 
@@ -32,7 +32,7 @@
 
 
 ![GitHub Gists](https://img.shields.io/github/followers/simplyudhay?label=Followers&style=social)
-
+</div>
 
 **I'm passionate about:**
 
